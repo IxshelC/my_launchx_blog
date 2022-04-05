@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ixshelc.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi viaje dentro de Launch X</title>
+      <link>https://ixshelc.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ixshelc.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola! Te contaré sobre todo lo que he aprendido en este viaje espacial:
+ Lógica de programación. Jupyter Noteboocks. Git. Github. HTML. CSS. Clonar una página web. Consumir la API de Pokemón y hacer una Pokedex.  🪐</description>
+    </item>
+    
+    <item>
       <title>Mis expectativas</title>
       <link>https://ixshelc.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
